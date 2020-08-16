@@ -65,7 +65,20 @@ body{
 .resume .resume_right .bold{
     color: #800000;
 }
-
+.resume .resume_right .center{
+    text-align: center;
+    color: #800000;
+    font-size: 40px;
+    text-transform: uppercase;
+    margin-top: 5px;
+    margin: 5px;
+    background: darkblue;
+    height:2px;
+    padding-top: 5px;
+    margin-bottom: 50px;
+    
+    
+}
 .resume .resume_right .resume_work ul,
 .resume .resume_right .resume_education ul{
     padding-left: 40px;
