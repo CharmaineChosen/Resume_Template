@@ -10,7 +10,7 @@
 }
 
 body{
-    background:pink;
+    /* background:pink; */
     font-size: 14px;
     line-height: 22px;
     color: #555555;
@@ -37,6 +37,7 @@ body{
 
 .resume .resume_left{
     width: 280px;
+    height: 1300px;
     background: pink;
 }
 
@@ -56,11 +57,13 @@ body{
 
 .resume .resume_right{
     width: 520px;
+    height: 1300px;
     background: #fff;
-    padding: 25px;
+    padding: 10px;
     position: absolute;
     top: 0px;
-    right: 0px;
+    /* right: 0px; */
+    margin-right: -184px;
 }
 
 .resume .resume_right .bold{
